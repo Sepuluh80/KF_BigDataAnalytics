@@ -17,7 +17,7 @@ Dashboard interaktif namun dalam format pdf tidak memungkinkan menjadi interakti
 
 README.md: Dokumen ini berisi panduan penggunaan dan deskripsi proyek.
 
-##Petunjuk Penggunaan
+## Petunjuk Penggunaan
 
 ### rakamin_kf_query.sql:
 
